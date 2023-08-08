@@ -10,4 +10,6 @@ Micro Frontend with React and  Webpack Module Federation
 # create-mf-app 
 # nodejs
 # react
-# Webpack
+# 
+
+# reference: https://medium.com/@abhishek.sinha132/a-complete-guide-to-micro-frontends-with-react-js-a1744a585405
